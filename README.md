@@ -14,3 +14,12 @@ When I’m not coding, I’m constantly exploring new tools, frameworks, and des
 
 ## My Goal
 My mission is simple: To become a skilled front-end developer and designer, and I'm committed to achieving this one line of code at a time!
+
+## Skills
+- html
+- css
+- js
+  - Knex.js
+  - Node.js
+  - Express.js
+- php
