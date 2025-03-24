@@ -7,12 +7,10 @@ I’m absolutely hooked on front-end development! I love blending creativity wit
 - Creating branding for a small business
 - Crafting visuals for a DJ
 
---
 
 ## Always Learning
 When I’m not coding, I’m constantly exploring new tools, frameworks, and design trends to keep my skills sharp and up-to-date. I’m always eager to learn something new!
 
---
 
 ## My Goal
 My mission is simple: To become a skilled front-end developer and designer, and I'm committed to achieving this one line of code at a time!
